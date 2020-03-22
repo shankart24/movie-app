@@ -1,0 +1,88 @@
+body{
+  background: linear-gradient(to right, #000428, #004e92);
+}
+
+.App {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #000428, #004e92);
+  height: auto;
+}
+
+.mynav{
+  text-align: center;
+  height: auto;
+  border-radius: 3px;
+  margin-top: 30px;
+}
+
+.mynav .navbar .navbar-brand{
+  color:rgba(57, 176, 17, 0.9);
+  font-size: 30px;
+  font-family: 'Arvo', serif;
+}
+
+.card{
+  margin: 0 auto;
+  width: 15rem;
+  color: black;
+  border: 1px solid black;
+  box-shadow: 10px 10px rgba(1,1,1,0.2);
+}
+
+
+.mycontent{
+  color: white;
+  height: auto;
+  border-radius: 3px;
+}
+
+.homestyle{
+  background: linear-gradient(to right, #000428, #004e92);
+  height: auto;
+}
+
+.hometxt{
+  border-radius: 5px;
+  width: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.hometxt h1{
+  font-size: 50px;
+  font-family: 'Arvo', serif;
+  color:rgba(57, 176, 17, 0.9);
+  margin: 150px 30px 50px 30px; 
+}
+
+.hometxt p{
+  font-size: 20px;
+  margin:30px; 
+}
+
+.compstyle{
+  background: linear-gradient(to right, #000428, #004e92);
+}
+
+.comptxt{
+  text-align: center;
+  padding: 20px;
+  height: 12vh;
+}
+
+.comptxt h1{
+  color: white;
+  margin-top: 20px;
+  font-size: 50px;
+  font-family: 'Arvo',serif;
+}
+
+.compmovies{
+  height: auto;
+  width: auto;
+  padding: 50px;
+}
+
+.compmovies .row .col-lg-3{
+  margin: 30px 0px 30px 0px;
+}
